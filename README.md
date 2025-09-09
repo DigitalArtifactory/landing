@@ -1,0 +1,3 @@
+## Welcome to Digital Artifactory's landing page
+
+Nothing to do here...
